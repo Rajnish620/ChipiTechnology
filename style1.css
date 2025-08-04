@@ -1,0 +1,23 @@
+body{
+        margin: 10px;
+        
+    }
+    .card1{
+        background-color: rgb(134, 201, 157);
+         background-color: rgb(134, 201, 157);
+        border-radius: 10px;
+        box-shadow: 1px 1px 11px -3px;
+        padding-bottom: 20px;
+
+    }
+    .card1 div{
+        padding-left: 20px;
+        padding-top: 5px;
+        
+    }
+    .card1 h1{
+        color: rgb(16, 80, 103);
+        background-color: rgb(231, 168, 87);
+        margin-right: 20px;
+        padding-left: 10px;
+    }
